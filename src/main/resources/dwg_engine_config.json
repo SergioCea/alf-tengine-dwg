@@ -1,0 +1,13 @@
+{
+  "transformers": [
+    {
+      "transformerName": "dwg",
+      "supportedSourceAndTargetList": [
+        {
+          "sourceMediaType": "image/vnd.dwg",
+          "targetMediaType": "application/pdf"
+        }
+      ]
+    }
+  ]
+}
